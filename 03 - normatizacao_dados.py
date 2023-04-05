@@ -5,7 +5,7 @@ from io import StringIO
 
 def start():
     # Chave de conexao
-    cadeia_conexao = 'DefaultEndpointsProtocol=https;AccountName=storageaccount1404933;AccountKey=EsgiXbmU4j9C9x0VLPwTdNlflwFmYYk5U/COwnJ4NrF3iMX5zQ8SLkh3NXHRn6rDZroisJpSnuHV+AStJQJBrA==;EndpointSuffix=core.windows.net'
+    cadeia_conexao = 'CADEIA DE CONEXAO'
 
     # Acessando os dados da camada RAW
     dados_exames = 'https://storageaccount1404933.blob.core.windows.net/datalake-aulas/origem_XPTO/DADOS_EXAMES/dados_exames.csv'
