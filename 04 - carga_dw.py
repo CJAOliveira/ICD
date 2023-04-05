@@ -5,7 +5,7 @@ from io import StringIO
 
 def start():
     # Chave de conexao
-    cadeia_conexao = 'CADEIA DE CONEXAO'
+    cadeia_conexao = 'cadeia_conexao'
 
     # Acessando os dados a serem importados
     detalhe_exames = 'https://storageaccount1404933.blob.core.windows.net/datalake-aulas/consume/DW_Exames/dados_exames/detalhes_exames/detalhe_exames.csv'
