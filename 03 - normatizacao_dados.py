@@ -5,7 +5,7 @@ from io import StringIO
 
 def start():
     # Chave de conexao
-    cadeia_conexao = 'CADEIA DE CONEXAO'
+    cadeia_conexao = 'cadeia_conexao'
 
     # Acessando os dados da camada RAW
     dados_exames = 'https://storageaccount1404933.blob.core.windows.net/datalake-aulas/origem_XPTO/DADOS_EXAMES/dados_exames.csv'
